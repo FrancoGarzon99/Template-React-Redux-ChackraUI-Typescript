@@ -1,0 +1,6 @@
+node_module/
+.public
+.eslintrc.json
+.README.md
+.tsconfig.json
+.prettierrc
